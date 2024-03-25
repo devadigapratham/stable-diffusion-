@@ -1,5 +1,5 @@
 import torch 
-from torch.nn import nn 
+from torch import nn 
 from torch.nn import functional as F
 from attention import SelfAttention 
 
